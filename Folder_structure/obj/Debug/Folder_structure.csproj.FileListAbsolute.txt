@@ -1,0 +1,14 @@
+C:\Users\divitjoshi\source\repos\Folder_structure\obj\Debug\Folder_structure.csprojAssemblyReference.cache
+C:\Users\divitjoshi\source\repos\Folder_structure\obj\Debug\MainWindow.g.cs
+C:\Users\divitjoshi\source\repos\Folder_structure\obj\Debug\App.g.cs
+C:\Users\divitjoshi\source\repos\Folder_structure\obj\Debug\Folder_structure_MarkupCompile.cache
+C:\Users\divitjoshi\source\repos\Folder_structure\obj\Debug\Folder_structure_MarkupCompile.lref
+C:\Users\divitjoshi\source\repos\Folder_structure\bin\Debug\Folder_structure.exe.config
+C:\Users\divitjoshi\source\repos\Folder_structure\bin\Debug\Folder_structure.exe
+C:\Users\divitjoshi\source\repos\Folder_structure\bin\Debug\Folder_structure.pdb
+C:\Users\divitjoshi\source\repos\Folder_structure\obj\Debug\MainWindow.baml
+C:\Users\divitjoshi\source\repos\Folder_structure\obj\Debug\Folder_structure.g.resources
+C:\Users\divitjoshi\source\repos\Folder_structure\obj\Debug\Folder_structure.Properties.Resources.resources
+C:\Users\divitjoshi\source\repos\Folder_structure\obj\Debug\Folder_structure.csproj.GenerateResource.cache
+C:\Users\divitjoshi\source\repos\Folder_structure\obj\Debug\Folder_structure.exe
+C:\Users\divitjoshi\source\repos\Folder_structure\obj\Debug\Folder_structure.pdb
